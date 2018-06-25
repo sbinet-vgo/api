@@ -1,1 +1,1 @@
-module github.com/sbinet-vgo/api
+module github.com/sbinet-vgo/api/v2
